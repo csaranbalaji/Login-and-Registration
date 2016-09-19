@@ -94,7 +94,7 @@
 </div>
      
                
-  <center><?php echo $error; ?></center>
+  <center><?php echo $error."try again"; ?></center>
 </div>
  </body>
 </html>
