@@ -61,7 +61,7 @@ input[type=submit]:hover {
 </style>
 <body>
 	<br><br>
-<!-- Form -->	
+<!-- form -->	
 <fieldset>
      <legend><center>Registration Form</center></legend>
 	    <form action="" method="post" enctype="multipart/form-data">
