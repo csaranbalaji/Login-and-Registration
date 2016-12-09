@@ -176,9 +176,7 @@ input[type=submit]:hover {
 		 echo nl2br("\n <p1>Registered succesfully!!! </p1>");
 		 
 		 $_SESSION['Aadhar']=$aadhar;
-		 echo '<script type="text/javascript">';
-        echo 'window.location.href="newproof.php";';
-        echo '</script>';
+		
 		}
 			
 	
